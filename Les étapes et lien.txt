@@ -11,6 +11,11 @@ Je suis aller cherhcher le fork au lien proposé. Ensuite, J'ai créé une page 
 
 J'ai utiliser stash pour mettre de côté ce que je fesait pour tarvailler sur le hotfix
 
+
 3.
 
 J'ai fait une pull request pour reprendre.
+
+
+4.
+Avec --amend j'ai modifié le 1st commit.
