@@ -1,13 +1,3 @@
-Voici le lien de github :
-
-
-
-1.
-
-Je suis aller cherhcher le fork au lien proposé. Ensuite, J'ai créé une page a-propos.html avec de l'information additionnelle et une liste d'employé.
-
-
-2.
 
 
 
